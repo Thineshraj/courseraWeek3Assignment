@@ -60,6 +60,13 @@ body {
     color: #fff;
 }
 
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #f9ff54;
+}
+.navbar-default .navbar-toggle:hover {
+    background-color: #cccccc;
+}
+
 /* Menu */
 .menu-hed {
     margin-bottom: 30px;
